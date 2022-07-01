@@ -1,1 +1,1 @@
-cf-vod.nimo.tv = vmess, cf-vod.nimo.tv, 80,  username=d3426164-efc0-4ddb-81eb-60786adf7aca, tls=false, ws=true, ws-path=/PisoVPN-VMESSNONTLS, sni=sg4.freenet.buzz, ws-headers=Host:sg4.freenet.buzz, skip-cert-verify=1, tfo=true, udp-relay=true
+piso = vmess, cf-vod.nimo.tv, 80,  username=d3426164-efc0-4ddb-81eb-60786adf7aca, tls=false, ws=true, ws-path=/PisoVPN-VMESSNONTLS, sni=sg4.freenet.buzz, ws-headers=Host:sg4.freenet.buzz, skip-cert-verify=1, tfo=true, udp-relay=true
